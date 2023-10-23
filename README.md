@@ -1,5 +1,5 @@
 # GMA3_attributeTimings
-LUA pluging for the GrandMA3 lighting console that creates a popup for attribute timing
+LUA plugin for the GrandMA3 lighting console that creates a popup for attribute timing
 
 attributeTimings 
 v1.2.1  (MA3 1.9) - 2023-04-15 
