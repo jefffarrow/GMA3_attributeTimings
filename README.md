@@ -1,17 +1,10 @@
-# GMA3_attributeTimings
-LUA plugin for the GrandMA3 lighting console that creates a popup for attribute timing
+-- attributeTimings
+-- v1.3  (MA3 2.0) - 2024-04-22
+-- Written by jeff @ penlight.ca
+-- https://github.com/jefffarrow/
+-- Released under WTFPL Public License
 
-attributeTimings 
-v1.2.1  (MA3 1.9) - 2023-04-15 
-Written by Jeff Farrow @ penlight.ca
+-- Set attribute fade and delay times for the current cue via popup
 
-Used to set attribute fade and delay times for the current cue. Creates a popup with fields for fade & delay with a swipe to select the attribute
-
-Place the .xml file in your \gma3_library\datapools\plugins directory and then import it into a blank plugin
-
-Thanks to all the users on the LUA Plugins at forum.malighting.com : Your tips and insight have been invaluable
-
-Released under the 'Improve and return' license
-Please improve and return to me: jeff  at  penlight dot ca
-Kindly keep some credit in the files if shared
-Suggestions for improvements also welcome, or just tell me when you use it
+-- Many hours have been invested in building and testing this code.
+-- If you find this plugin useful, please buy me a coffee https://buymeacoffee.com/jfarrow
