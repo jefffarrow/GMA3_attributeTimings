@@ -1,18 +1,12 @@
---	attributeTimings
---	v1.2.1  (MA3 1.9) - 2023-04-15
---	Written by Jeff Farrow @ penlight.ca
---
---  Used to set attribute fade and delay times for the current cue
---  Creates a popup with fields for fade & delay with a swipe to select the attribute
---
---  Thanks to all the users on the LUA Plugins at forum.malighting.com
---  Your tips and insight have been invaluable
---
---	Released under the 'Improve and return' license
---	Please improve and return to me: jeff@penlight.ca
---	Kindly keep some credit in the files if shared
---	Suggestions for improvements also welcome, or just tell me when you use it
+-- attributeTimings
+-- v1.3  (MA3 2.0) - 2024-04-22
+-- Written by jeff@penlight.ca
+-- Released under WTFPL Public License
 
+-- Set attribute fade and delay times for the current cue via popup
+
+-- Many hours have been invested in building and testing this code.
+-- If you find this plugin useful, please buy me a coffee https://buymeacoffee.com/jfarrow
 
 local function attributeTimings()
     local attList = {}
